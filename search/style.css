@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* 公共样式 */
+.search-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.search-input {
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.search-button {
+    border: none;
+    background-color: #337ab7;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.advanced-search-button {
+    border: none;
+    background-color: #337ab7;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.feeling-lucky {
+    text-decoration: none;
+    color: #4285f4;
+}
+
+.page-link {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-decoration: none;
+    color: #4285f4;
+}
+
+.page-link2 {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    text-decoration: none;
+    color: #4285f4;
+}
+
+/* 首页样式 */
+.index-search-input {
+    text-align: center;
+}
+
+/* 图片搜索页样式 */
+
+/* 高级搜索页样式 */
+form div {
+    margin-bottom: 10px;
+}
+
+
+
